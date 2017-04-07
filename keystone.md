@@ -1,7 +1,7 @@
 ### unprotected policies
 
 Authentication is in itself a protective operation, but it isn't protected by
-policy in this sence because the policy is essentially in code.
+policy in this sense because the policy is essentially in code.
 
 ```
 - authenticate_for_token
